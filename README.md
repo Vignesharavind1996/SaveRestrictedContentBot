@@ -94,4 +94,8 @@ Deploy your bot on `Okteto` [Useless]
   
 Tutorial for okteto - [click here](https://telegra.ph/Okteto-Deploy-04-01)
 
+
+<a href="https://render.com/deploy?repo=https://github.com/vasusen-code/SaveRestrictedContentBot"> <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"> </a>
+
+
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
